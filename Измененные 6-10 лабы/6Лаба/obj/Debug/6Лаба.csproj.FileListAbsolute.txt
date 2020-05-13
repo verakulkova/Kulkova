@@ -1,0 +1,10 @@
+C:\Users\1\source\repos\6Лаба\obj\Debug\6Лаба.csprojAssemblyReference.cache
+C:\Users\1\source\repos\6Лаба\obj\Debug\_6Лаба.Form1.resources
+C:\Users\1\source\repos\6Лаба\obj\Debug\_6Лаба.Properties.Resources.resources
+C:\Users\1\source\repos\6Лаба\obj\Debug\6Лаба.csproj.GenerateResource.cache
+C:\Users\1\source\repos\6Лаба\bin\Debug\6Лаба.exe.config
+C:\Users\1\source\repos\6Лаба\bin\Debug\6Лаба.exe
+C:\Users\1\source\repos\6Лаба\bin\Debug\6Лаба.pdb
+C:\Users\1\source\repos\6Лаба\obj\Debug\_6Лаба.Form2.resources
+C:\Users\1\source\repos\6Лаба\obj\Debug\6Лаба.exe
+C:\Users\1\source\repos\6Лаба\obj\Debug\6Лаба.pdb
