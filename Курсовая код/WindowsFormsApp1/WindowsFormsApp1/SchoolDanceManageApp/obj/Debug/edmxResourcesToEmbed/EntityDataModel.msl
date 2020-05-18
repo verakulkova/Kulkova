@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище SchoolDanceModelContainer" CdmEntityContainer="SchoolDanceEntities">
+    <EntitySetMapping Name="abonements">
+      <EntityTypeMapping TypeName="SchoolDanceModel.abonements">
+        <MappingFragment StoreEntitySet="abonements">
+          <ScalarProperty Name="id_ab" ColumnName="id_ab" />
+          <ScalarProperty Name="kind_ab" ColumnName="kind_ab" />
+          <ScalarProperty Name="kind_numbers_in_ab" ColumnName="kind_numbers_in_ab" />
+          <ScalarProperty Name="numbers_lessons_ab" ColumnName="numbers_lessons_ab" />
+          <ScalarProperty Name="id_client" ColumnName="id_client" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="clientinformation">
+      <EntityTypeMapping TypeName="SchoolDanceModel.clientinformation">
+        <MappingFragment StoreEntitySet="clientinformation">
+          <ScalarProperty Name="id_client" ColumnName="id_client" />
+          <ScalarProperty Name="surname" ColumnName="surname" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="lastname" ColumnName="lastname" />
+          <ScalarProperty Name="id_prob_ind" ColumnName="id_prob_ind" />
+          <ScalarProperty Name="id_individ" ColumnName="id_individ" />
+          <ScalarProperty Name="login" ColumnName="login" />
+          <ScalarProperty Name="password" ColumnName="password" />
+          <ScalarProperty Name="id_role" ColumnName="id_role" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="dancedirection">
+      <EntityTypeMapping TypeName="SchoolDanceModel.dancedirection">
+        <MappingFragment StoreEntitySet="dancedirection">
+          <ScalarProperty Name="id_dance" ColumnName="id_dance" />
+          <ScalarProperty Name="name_dance" ColumnName="name_dance" />
+          <ScalarProperty Name="style" ColumnName="style" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="grouponetraining_client">
+      <EntityTypeMapping TypeName="SchoolDanceModel.grouponetraining_client">
+        <MappingFragment StoreEntitySet="grouponetraining_client">
+          <ScalarProperty Name="id_client" ColumnName="id_client" />
+          <ScalarProperty Name="id_dance" ColumnName="id_dance" />
+          <ScalarProperty Name="num_gr" ColumnName="num_gr" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="individ_one_trainig">
+      <EntityTypeMapping TypeName="SchoolDanceModel.individ_one_trainig">
+        <MappingFragment StoreEntitySet="individ_one_trainig">
+          <ScalarProperty Name="id_individ" ColumnName="id_individ" />
+          <ScalarProperty Name="number_visits" ColumnName="number_visits" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="probnoe_group">
+      <EntityTypeMapping TypeName="SchoolDanceModel.probnoe_group">
+        <MappingFragment StoreEntitySet="probnoe_group">
+          <ScalarProperty Name="id_prob_gr" ColumnName="id_prob_gr" />
+          <ScalarProperty Name="visits_gr" ColumnName="visits_gr" />
+          <ScalarProperty Name="id_client" ColumnName="id_client" />
+          <ScalarProperty Name="id_dance" ColumnName="id_dance" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="probnoe_individ">
+      <EntityTypeMapping TypeName="SchoolDanceModel.probnoe_individ">
+        <MappingFragment StoreEntitySet="probnoe_individ">
+          <ScalarProperty Name="id_prob_ind" ColumnName="id_prob_ind" />
+          <ScalarProperty Name="visits_ind" ColumnName="visits_ind" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="roles">
+      <EntityTypeMapping TypeName="SchoolDanceModel.roles">
+        <MappingFragment StoreEntitySet="roles">
+          <ScalarProperty Name="id_role" ColumnName="id_role" />
+          <ScalarProperty Name="role" ColumnName="role" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="teachers">
+      <EntityTypeMapping TypeName="SchoolDanceModel.teachers">
+        <MappingFragment StoreEntitySet="teachers">
+          <ScalarProperty Name="id_teacher" ColumnName="id_teacher" />
+          <ScalarProperty Name="surname_teacher" ColumnName="surname_teacher" />
+          <ScalarProperty Name="name_teacher" ColumnName="name_teacher" />
+          <ScalarProperty Name="lastname_teacher" ColumnName="lastname_teacher" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="timetable">
+      <EntityTypeMapping TypeName="SchoolDanceModel.timetable">
+        <MappingFragment StoreEntitySet="timetable">
+          <ScalarProperty Name="data" ColumnName="data" />
+          <ScalarProperty Name="id_dance" ColumnName="id_dance" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="teachers_dance" TypeName="SchoolDanceModel.teachers_dance" StoreEntitySet="teachers_dance">
+      <EndProperty Name="dancedirection">
+        <ScalarProperty Name="id_dance" ColumnName="id_dance" />
+      </EndProperty>
+      <EndProperty Name="teachers">
+        <ScalarProperty Name="id_teacher" ColumnName="id_teacher" />
+      </EndProperty>
+    </AssociationSetMapping>
+  </EntityContainerMapping>
+</Mapping>

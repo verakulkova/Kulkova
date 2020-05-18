@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SchoolDanceModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="abonements">
+    <Key>
+      <PropertyRef Name="id_ab" />
+    </Key>
+    <Property Name="id_ab" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="kind_ab" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="kind_numbers_in_ab" Type="Int32" />
+    <Property Name="numbers_lessons_ab" Type="Int32" />
+    <Property Name="id_client" Type="Int32" />
+    <NavigationProperty Name="clientinformation" Relationship="Self.abonements_id_client_fkey" FromRole="abonements" ToRole="clientinformation" />
+  </EntityType>
+  <EntityType Name="clientinformation">
+    <Key>
+      <PropertyRef Name="id_client" />
+    </Key>
+    <Property Name="id_client" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="surname" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="name" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="lastname" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="id_prob_ind" Type="Int32" />
+    <Property Name="id_individ" Type="Int32" />
+    <Property Name="login" Type="String" MaxLength="8000" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="password" Type="String" MaxLength="8000" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="id_role" Type="Int32" />
+    <NavigationProperty Name="abonements" Relationship="Self.abonements_id_client_fkey" FromRole="clientinformation" ToRole="abonements" />
+    <NavigationProperty Name="individ_one_trainig" Relationship="Self.clientinformation_id_individ_fkey" FromRole="clientinformation" ToRole="individ_one_trainig" />
+    <NavigationProperty Name="probnoe_individ" Relationship="Self.clientinformation_id_prob_ind_fkey" FromRole="clientinformation" ToRole="probnoe_individ" />
+    <NavigationProperty Name="roles" Relationship="Self.clientinformation_id_role_fkey" FromRole="clientinformation" ToRole="roles" />
+    <NavigationProperty Name="grouponetraining_client" Relationship="Self.grouponetraining_client_id_client_fkey" FromRole="clientinformation" ToRole="grouponetraining_client" />
+    <NavigationProperty Name="probnoe_group" Relationship="Self.probnoe_group_id_client_fkey" FromRole="clientinformation" ToRole="probnoe_group" />
+  </EntityType>
+  <EntityType Name="dancedirection">
+    <Key>
+      <PropertyRef Name="id_dance" />
+    </Key>
+    <Property Name="id_dance" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name_dance" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="style" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="grouponetraining_client" Relationship="Self.grouponetraining_client_id_dance_fkey" FromRole="dancedirection" ToRole="grouponetraining_client" />
+    <NavigationProperty Name="probnoe_group" Relationship="Self.probnoe_group_id_dance_fkey" FromRole="dancedirection" ToRole="probnoe_group" />
+    <NavigationProperty Name="timetable" Relationship="Self.timetable_id_dance_fkey" FromRole="dancedirection" ToRole="timetable" />
+    <NavigationProperty Name="teachers" Relationship="Self.teachers_dance" FromRole="dancedirection" ToRole="teachers" />
+  </EntityType>
+  <EntityType Name="grouponetraining_client">
+    <Key>
+      <PropertyRef Name="id_client" />
+      <PropertyRef Name="id_dance" />
+    </Key>
+    <Property Name="id_client" Type="Int32" Nullable="false" />
+    <Property Name="id_dance" Type="Int32" Nullable="false" />
+    <Property Name="num_gr" Type="Int32" />
+    <NavigationProperty Name="clientinformation" Relationship="Self.grouponetraining_client_id_client_fkey" FromRole="grouponetraining_client" ToRole="clientinformation" />
+    <NavigationProperty Name="dancedirection" Relationship="Self.grouponetraining_client_id_dance_fkey" FromRole="grouponetraining_client" ToRole="dancedirection" />
+  </EntityType>
+  <EntityType Name="individ_one_trainig">
+    <Key>
+      <PropertyRef Name="id_individ" />
+    </Key>
+    <Property Name="id_individ" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="number_visits" Type="Int32" />
+    <NavigationProperty Name="clientinformation" Relationship="Self.clientinformation_id_individ_fkey" FromRole="individ_one_trainig" ToRole="clientinformation" />
+  </EntityType>
+  <EntityType Name="probnoe_group">
+    <Key>
+      <PropertyRef Name="id_prob_gr" />
+    </Key>
+    <Property Name="id_prob_gr" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="visits_gr" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="id_client" Type="Int32" />
+    <Property Name="id_dance" Type="Int32" />
+    <NavigationProperty Name="clientinformation" Relationship="Self.probnoe_group_id_client_fkey" FromRole="probnoe_group" ToRole="clientinformation" />
+    <NavigationProperty Name="dancedirection" Relationship="Self.probnoe_group_id_dance_fkey" FromRole="probnoe_group" ToRole="dancedirection" />
+  </EntityType>
+  <EntityType Name="probnoe_individ">
+    <Key>
+      <PropertyRef Name="id_prob_ind" />
+    </Key>
+    <Property Name="id_prob_ind" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="visits_ind" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="clientinformation" Relationship="Self.clientinformation_id_prob_ind_fkey" FromRole="probnoe_individ" ToRole="clientinformation" />
+  </EntityType>
+  <EntityType Name="roles">
+    <Key>
+      <PropertyRef Name="id_role" />
+    </Key>
+    <Property Name="id_role" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="role" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="clientinformation" Relationship="Self.clientinformation_id_role_fkey" FromRole="roles" ToRole="clientinformation" />
+  </EntityType>
+  <EntityType Name="teachers">
+    <Key>
+      <PropertyRef Name="id_teacher" />
+    </Key>
+    <Property Name="id_teacher" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="surname_teacher" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="name_teacher" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="lastname_teacher" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="dancedirection" Relationship="Self.teachers_dance" FromRole="teachers" ToRole="dancedirection" />
+  </EntityType>
+  <EntityType Name="timetable">
+    <Key>
+      <PropertyRef Name="data" />
+    </Key>
+    <Property Name="data" Type="DateTime" Precision="6" Nullable="false" />
+    <Property Name="id_dance" Type="Int32" />
+    <NavigationProperty Name="dancedirection" Relationship="Self.timetable_id_dance_fkey" FromRole="timetable" ToRole="dancedirection" />
+  </EntityType>
+  <Association Name="abonements_id_client_fkey">
+    <End Role="clientinformation" Type="Self.clientinformation" Multiplicity="0..1" />
+    <End Role="abonements" Type="Self.abonements" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="clientinformation">
+        <PropertyRef Name="id_client" />
+      </Principal>
+      <Dependent Role="abonements">
+        <PropertyRef Name="id_client" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="clientinformation_id_individ_fkey">
+    <End Role="individ_one_trainig" Type="Self.individ_one_trainig" Multiplicity="0..1" />
+    <End Role="clientinformation" Type="Self.clientinformation" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="individ_one_trainig">
+        <PropertyRef Name="id_individ" />
+      </Principal>
+      <Dependent Role="clientinformation">
+        <PropertyRef Name="id_individ" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="clientinformation_id_prob_ind_fkey">
+    <End Role="probnoe_individ" Type="Self.probnoe_individ" Multiplicity="0..1" />
+    <End Role="clientinformation" Type="Self.clientinformation" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="probnoe_individ">
+        <PropertyRef Name="id_prob_ind" />
+      </Principal>
+      <Dependent Role="clientinformation">
+        <PropertyRef Name="id_prob_ind" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="clientinformation_id_role_fkey">
+    <End Role="roles" Type="Self.roles" Multiplicity="0..1" />
+    <End Role="clientinformation" Type="Self.clientinformation" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="roles">
+        <PropertyRef Name="id_role" />
+      </Principal>
+      <Dependent Role="clientinformation">
+        <PropertyRef Name="id_role" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="grouponetraining_client_id_client_fkey">
+    <End Role="clientinformation" Type="Self.clientinformation" Multiplicity="1" />
+    <End Role="grouponetraining_client" Type="Self.grouponetraining_client" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="clientinformation">
+        <PropertyRef Name="id_client" />
+      </Principal>
+      <Dependent Role="grouponetraining_client">
+        <PropertyRef Name="id_client" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="probnoe_group_id_client_fkey">
+    <End Role="clientinformation" Type="Self.clientinformation" Multiplicity="0..1" />
+    <End Role="probnoe_group" Type="Self.probnoe_group" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="clientinformation">
+        <PropertyRef Name="id_client" />
+      </Principal>
+      <Dependent Role="probnoe_group">
+        <PropertyRef Name="id_client" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="grouponetraining_client_id_dance_fkey">
+    <End Role="dancedirection" Type="Self.dancedirection" Multiplicity="1" />
+    <End Role="grouponetraining_client" Type="Self.grouponetraining_client" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="dancedirection">
+        <PropertyRef Name="id_dance" />
+      </Principal>
+      <Dependent Role="grouponetraining_client">
+        <PropertyRef Name="id_dance" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="probnoe_group_id_dance_fkey">
+    <End Role="dancedirection" Type="Self.dancedirection" Multiplicity="0..1" />
+    <End Role="probnoe_group" Type="Self.probnoe_group" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="dancedirection">
+        <PropertyRef Name="id_dance" />
+      </Principal>
+      <Dependent Role="probnoe_group">
+        <PropertyRef Name="id_dance" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="timetable_id_dance_fkey">
+    <End Role="dancedirection" Type="Self.dancedirection" Multiplicity="0..1" />
+    <End Role="timetable" Type="Self.timetable" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="dancedirection">
+        <PropertyRef Name="id_dance" />
+      </Principal>
+      <Dependent Role="timetable">
+        <PropertyRef Name="id_dance" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="teachers_dance">
+    <End Role="dancedirection" Type="Self.dancedirection" Multiplicity="*" />
+    <End Role="teachers" Type="Self.teachers" Multiplicity="*" />
+  </Association>
+  <EntityContainer Name="SchoolDanceEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="abonements" EntityType="Self.abonements" />
+    <EntitySet Name="clientinformation" EntityType="Self.clientinformation" />
+    <EntitySet Name="dancedirection" EntityType="Self.dancedirection" />
+    <EntitySet Name="grouponetraining_client" EntityType="Self.grouponetraining_client" />
+    <EntitySet Name="individ_one_trainig" EntityType="Self.individ_one_trainig" />
+    <EntitySet Name="probnoe_group" EntityType="Self.probnoe_group" />
+    <EntitySet Name="probnoe_individ" EntityType="Self.probnoe_individ" />
+    <EntitySet Name="roles" EntityType="Self.roles" />
+    <EntitySet Name="teachers" EntityType="Self.teachers" />
+    <EntitySet Name="timetable" EntityType="Self.timetable" />
+    <AssociationSet Name="abonements_id_client_fkey" Association="Self.abonements_id_client_fkey">
+      <End Role="clientinformation" EntitySet="clientinformation" />
+      <End Role="abonements" EntitySet="abonements" />
+    </AssociationSet>
+    <AssociationSet Name="clientinformation_id_individ_fkey" Association="Self.clientinformation_id_individ_fkey">
+      <End Role="individ_one_trainig" EntitySet="individ_one_trainig" />
+      <End Role="clientinformation" EntitySet="clientinformation" />
+    </AssociationSet>
+    <AssociationSet Name="clientinformation_id_prob_ind_fkey" Association="Self.clientinformation_id_prob_ind_fkey">
+      <End Role="probnoe_individ" EntitySet="probnoe_individ" />
+      <End Role="clientinformation" EntitySet="clientinformation" />
+    </AssociationSet>
+    <AssociationSet Name="clientinformation_id_role_fkey" Association="Self.clientinformation_id_role_fkey">
+      <End Role="roles" EntitySet="roles" />
+      <End Role="clientinformation" EntitySet="clientinformation" />
+    </AssociationSet>
+    <AssociationSet Name="grouponetraining_client_id_client_fkey" Association="Self.grouponetraining_client_id_client_fkey">
+      <End Role="clientinformation" EntitySet="clientinformation" />
+      <End Role="grouponetraining_client" EntitySet="grouponetraining_client" />
+    </AssociationSet>
+    <AssociationSet Name="probnoe_group_id_client_fkey" Association="Self.probnoe_group_id_client_fkey">
+      <End Role="clientinformation" EntitySet="clientinformation" />
+      <End Role="probnoe_group" EntitySet="probnoe_group" />
+    </AssociationSet>
+    <AssociationSet Name="grouponetraining_client_id_dance_fkey" Association="Self.grouponetraining_client_id_dance_fkey">
+      <End Role="dancedirection" EntitySet="dancedirection" />
+      <End Role="grouponetraining_client" EntitySet="grouponetraining_client" />
+    </AssociationSet>
+    <AssociationSet Name="probnoe_group_id_dance_fkey" Association="Self.probnoe_group_id_dance_fkey">
+      <End Role="dancedirection" EntitySet="dancedirection" />
+      <End Role="probnoe_group" EntitySet="probnoe_group" />
+    </AssociationSet>
+    <AssociationSet Name="timetable_id_dance_fkey" Association="Self.timetable_id_dance_fkey">
+      <End Role="dancedirection" EntitySet="dancedirection" />
+      <End Role="timetable" EntitySet="timetable" />
+    </AssociationSet>
+    <AssociationSet Name="teachers_dance" Association="Self.teachers_dance">
+      <End Role="dancedirection" EntitySet="dancedirection" />
+      <End Role="teachers" EntitySet="teachers" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
