@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище CardTestModelContainer" CdmEntityContainer="CardTestEntities1">
+    <EntitySetMapping Name="Cards">
+      <EntityTypeMapping TypeName="CardTestModel.Cards">
+        <MappingFragment StoreEntitySet="Cards">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="nameSender" ColumnName="nameSender" />
+          <ScalarProperty Name="emailSender" ColumnName="emailSender" />
+          <ScalarProperty Name="wish" ColumnName="wish" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
