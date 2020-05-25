@@ -1,0 +1,275 @@
+C:\Users\Aleksandr\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\SchoolDanceManageApp.exe.config
+C:\Users\Aleksandr\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\SchoolDanceManageApp.exe
+C:\Users\Aleksandr\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\SchoolDanceManageApp.pdb
+C:\Users\Aleksandr\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\EntityFramework.dll
+C:\Users\Aleksandr\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aleksandr\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\EntityFramework6.Npgsql.dll
+C:\Users\Aleksandr\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Aleksandr\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\Npgsql.dll
+C:\Users\Aleksandr\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\System.Buffers.dll
+C:\Users\Aleksandr\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\System.Memory.dll
+C:\Users\Aleksandr\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Aleksandr\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Aleksandr\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Aleksandr\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\System.Text.Json.dll
+C:\Users\Aleksandr\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Aleksandr\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\System.ValueTuple.dll
+C:\Users\Aleksandr\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\EntityFramework.xml
+C:\Users\Aleksandr\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aleksandr\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\EntityFramework6.Npgsql.xml
+C:\Users\Aleksandr\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Aleksandr\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\Npgsql.pdb
+C:\Users\Aleksandr\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\Npgsql.xml
+C:\Users\Aleksandr\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\System.Buffers.xml
+C:\Users\Aleksandr\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\System.Memory.xml
+C:\Users\Aleksandr\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Aleksandr\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Aleksandr\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Aleksandr\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\System.Text.Json.xml
+C:\Users\Aleksandr\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Aleksandr\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\System.ValueTuple.xml
+C:\Users\Aleksandr\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.Views.MainMenuView.resources
+C:\Users\Aleksandr\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.Properties.Resources.resources
+C:\Users\Aleksandr\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.csproj.GenerateResource.cache
+C:\Users\Aleksandr\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.csproj.CopyComplete
+C:\Users\Aleksandr\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.exe
+C:\Users\Aleksandr\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.pdb
+C:\Users\Aleksandr\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.csprojAssemblyReference.cache
+C:\Users\Aleksandr\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.Views.AuthorizationView.resources
+C:\Users\Aleksandr\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.Views.AdminPanelView.resources
+C:\Users\Aleksandr\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.Views.BookAbonementView.resources
+C:\Users\Aleksandr\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.Views.DirectionsView.resources
+C:\Users\Aleksandr\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.Views.PrivateOfficeView.resources
+C:\Users\Aleksandr\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.Views.SignUpForClassView.resources
+C:\Users\Aleksandr\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.Views.TimetableView.resources
+C:\Users\Aleksandr\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.Views.ClientInformationView.resources
+C:\Users\1\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\SchoolDanceManageApp.exe.config
+C:\Users\1\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\SchoolDanceManageApp.exe
+C:\Users\1\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\SchoolDanceManageApp.pdb
+C:\Users\1\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\EntityFramework.dll
+C:\Users\1\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\1\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\EntityFramework6.Npgsql.dll
+C:\Users\1\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\1\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\Npgsql.dll
+C:\Users\1\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\System.Buffers.dll
+C:\Users\1\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\System.Memory.dll
+C:\Users\1\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\1\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\1\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\1\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\System.Text.Json.dll
+C:\Users\1\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\1\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\System.ValueTuple.dll
+C:\Users\1\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\EntityFramework.xml
+C:\Users\1\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\1\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\EntityFramework6.Npgsql.xml
+C:\Users\1\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\1\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\Npgsql.pdb
+C:\Users\1\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\Npgsql.xml
+C:\Users\1\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\System.Buffers.xml
+C:\Users\1\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\System.Memory.xml
+C:\Users\1\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\1\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\1\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\1\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\System.Text.Json.xml
+C:\Users\1\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\1\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\System.ValueTuple.xml
+C:\Users\1\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.Views.AdminPanelView.resources
+C:\Users\1\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.Views.AuthorizationView.resources
+C:\Users\1\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.Views.BookAbonementView.resources
+C:\Users\1\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.Views.ClientInformationView.resources
+C:\Users\1\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.Views.DirectionsView.resources
+C:\Users\1\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.Views.MainMenuView.resources
+C:\Users\1\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.Properties.Resources.resources
+C:\Users\1\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.Views.PrivateOfficeView.resources
+C:\Users\1\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.Views.SignUpForClassView.resources
+C:\Users\1\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.Views.TimetableView.resources
+C:\Users\1\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.csproj.GenerateResource.cache
+C:\Users\1\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.csproj.CopyComplete
+C:\Users\1\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.exe
+C:\Users\1\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.pdb
+C:\Users\1\Downloads\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.csprojAssemblyReference.cache
+C:\Users\Aleksandr\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\SchoolDanceManageApp.exe.config
+C:\Users\Aleksandr\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\SchoolDanceManageApp.exe
+C:\Users\Aleksandr\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\SchoolDanceManageApp.pdb
+C:\Users\Aleksandr\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\EntityFramework.dll
+C:\Users\Aleksandr\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aleksandr\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\EntityFramework6.Npgsql.dll
+C:\Users\Aleksandr\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Aleksandr\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\Npgsql.dll
+C:\Users\Aleksandr\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\System.Buffers.dll
+C:\Users\Aleksandr\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\System.Memory.dll
+C:\Users\Aleksandr\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Aleksandr\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Aleksandr\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Aleksandr\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\System.Text.Json.dll
+C:\Users\Aleksandr\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Aleksandr\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\System.ValueTuple.dll
+C:\Users\Aleksandr\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\EntityFramework.xml
+C:\Users\Aleksandr\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aleksandr\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\EntityFramework6.Npgsql.xml
+C:\Users\Aleksandr\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Aleksandr\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\Npgsql.pdb
+C:\Users\Aleksandr\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\Npgsql.xml
+C:\Users\Aleksandr\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\System.Buffers.xml
+C:\Users\Aleksandr\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\System.Memory.xml
+C:\Users\Aleksandr\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Aleksandr\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Aleksandr\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Aleksandr\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\System.Text.Json.xml
+C:\Users\Aleksandr\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Aleksandr\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\bin\Debug\System.ValueTuple.xml
+C:\Users\Aleksandr\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.csprojAssemblyReference.cache
+C:\Users\Aleksandr\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.Views.AdminPanelView.resources
+C:\Users\Aleksandr\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.Views.AuthorizationView.resources
+C:\Users\Aleksandr\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.Views.BookAbonementView.resources
+C:\Users\Aleksandr\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.Views.ClientInformationView.resources
+C:\Users\Aleksandr\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.Views.DirectionsView.resources
+C:\Users\Aleksandr\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.Properties.Resources.resources
+C:\Users\Aleksandr\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.Views.MainMenuView.resources
+C:\Users\Aleksandr\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.Views.PrivateOfficeView.resources
+C:\Users\Aleksandr\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.Views.SignUpForClassView.resources
+C:\Users\Aleksandr\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.Views.TimetableView.resources
+C:\Users\Aleksandr\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.csproj.GenerateResource.cache
+C:\Users\Aleksandr\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.csproj.CopyComplete
+C:\Users\Aleksandr\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.exe
+C:\Users\Aleksandr\Documents\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.pdb
+C:\Users\Aleksandr\Source\Repos\danceprojectprofi\SchoolDanceManageApp\bin\Debug\SchoolDanceManageApp.exe.config
+C:\Users\Aleksandr\Source\Repos\danceprojectprofi\SchoolDanceManageApp\bin\Debug\SchoolDanceManageApp.exe
+C:\Users\Aleksandr\Source\Repos\danceprojectprofi\SchoolDanceManageApp\bin\Debug\SchoolDanceManageApp.pdb
+C:\Users\Aleksandr\Source\Repos\danceprojectprofi\SchoolDanceManageApp\bin\Debug\EntityFramework.dll
+C:\Users\Aleksandr\Source\Repos\danceprojectprofi\SchoolDanceManageApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aleksandr\Source\Repos\danceprojectprofi\SchoolDanceManageApp\bin\Debug\EntityFramework6.Npgsql.dll
+C:\Users\Aleksandr\Source\Repos\danceprojectprofi\SchoolDanceManageApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Aleksandr\Source\Repos\danceprojectprofi\SchoolDanceManageApp\bin\Debug\Npgsql.dll
+C:\Users\Aleksandr\Source\Repos\danceprojectprofi\SchoolDanceManageApp\bin\Debug\System.Buffers.dll
+C:\Users\Aleksandr\Source\Repos\danceprojectprofi\SchoolDanceManageApp\bin\Debug\System.Memory.dll
+C:\Users\Aleksandr\Source\Repos\danceprojectprofi\SchoolDanceManageApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Aleksandr\Source\Repos\danceprojectprofi\SchoolDanceManageApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Aleksandr\Source\Repos\danceprojectprofi\SchoolDanceManageApp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Aleksandr\Source\Repos\danceprojectprofi\SchoolDanceManageApp\bin\Debug\System.Text.Json.dll
+C:\Users\Aleksandr\Source\Repos\danceprojectprofi\SchoolDanceManageApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Aleksandr\Source\Repos\danceprojectprofi\SchoolDanceManageApp\bin\Debug\System.ValueTuple.dll
+C:\Users\Aleksandr\Source\Repos\danceprojectprofi\SchoolDanceManageApp\bin\Debug\EntityFramework.xml
+C:\Users\Aleksandr\Source\Repos\danceprojectprofi\SchoolDanceManageApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aleksandr\Source\Repos\danceprojectprofi\SchoolDanceManageApp\bin\Debug\EntityFramework6.Npgsql.xml
+C:\Users\Aleksandr\Source\Repos\danceprojectprofi\SchoolDanceManageApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Aleksandr\Source\Repos\danceprojectprofi\SchoolDanceManageApp\bin\Debug\Npgsql.pdb
+C:\Users\Aleksandr\Source\Repos\danceprojectprofi\SchoolDanceManageApp\bin\Debug\Npgsql.xml
+C:\Users\Aleksandr\Source\Repos\danceprojectprofi\SchoolDanceManageApp\bin\Debug\System.Buffers.xml
+C:\Users\Aleksandr\Source\Repos\danceprojectprofi\SchoolDanceManageApp\bin\Debug\System.Memory.xml
+C:\Users\Aleksandr\Source\Repos\danceprojectprofi\SchoolDanceManageApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Aleksandr\Source\Repos\danceprojectprofi\SchoolDanceManageApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Aleksandr\Source\Repos\danceprojectprofi\SchoolDanceManageApp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Aleksandr\Source\Repos\danceprojectprofi\SchoolDanceManageApp\bin\Debug\System.Text.Json.xml
+C:\Users\Aleksandr\Source\Repos\danceprojectprofi\SchoolDanceManageApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Aleksandr\Source\Repos\danceprojectprofi\SchoolDanceManageApp\bin\Debug\System.ValueTuple.xml
+C:\Users\Aleksandr\Source\Repos\danceprojectprofi\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.csprojAssemblyReference.cache
+C:\Users\Aleksandr\Source\Repos\danceprojectprofi\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.Views.AdminPanelView.resources
+C:\Users\Aleksandr\Source\Repos\danceprojectprofi\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.Views.AuthorizationView.resources
+C:\Users\Aleksandr\Source\Repos\danceprojectprofi\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.Views.BookAbonementView.resources
+C:\Users\Aleksandr\Source\Repos\danceprojectprofi\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.Views.ClientInformationView.resources
+C:\Users\Aleksandr\Source\Repos\danceprojectprofi\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.Views.DirectionsView.resources
+C:\Users\Aleksandr\Source\Repos\danceprojectprofi\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.Properties.Resources.resources
+C:\Users\Aleksandr\Source\Repos\danceprojectprofi\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.Views.MainMenuView.resources
+C:\Users\Aleksandr\Source\Repos\danceprojectprofi\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.Views.PrivateOfficeView.resources
+C:\Users\Aleksandr\Source\Repos\danceprojectprofi\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.Views.SignUpForClassView.resources
+C:\Users\Aleksandr\Source\Repos\danceprojectprofi\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.Views.TimetableView.resources
+C:\Users\Aleksandr\Source\Repos\danceprojectprofi\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.csproj.GenerateResource.cache
+C:\Users\Aleksandr\Source\Repos\danceprojectprofi\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\Source\Repos\danceprojectprofi\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.csproj.CopyComplete
+C:\Users\Aleksandr\Source\Repos\danceprojectprofi\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.exe
+C:\Users\Aleksandr\Source\Repos\danceprojectprofi\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.pdb
+C:\Users\1\Downloads\danceprojectprofi\SchoolDanceManageApp\bin\Debug\SchoolDanceManageApp.exe.config
+C:\Users\1\Downloads\danceprojectprofi\SchoolDanceManageApp\bin\Debug\SchoolDanceManageApp.exe
+C:\Users\1\Downloads\danceprojectprofi\SchoolDanceManageApp\bin\Debug\SchoolDanceManageApp.pdb
+C:\Users\1\Downloads\danceprojectprofi\SchoolDanceManageApp\bin\Debug\EntityFramework.dll
+C:\Users\1\Downloads\danceprojectprofi\SchoolDanceManageApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\1\Downloads\danceprojectprofi\SchoolDanceManageApp\bin\Debug\EntityFramework6.Npgsql.dll
+C:\Users\1\Downloads\danceprojectprofi\SchoolDanceManageApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\1\Downloads\danceprojectprofi\SchoolDanceManageApp\bin\Debug\Npgsql.dll
+C:\Users\1\Downloads\danceprojectprofi\SchoolDanceManageApp\bin\Debug\System.Buffers.dll
+C:\Users\1\Downloads\danceprojectprofi\SchoolDanceManageApp\bin\Debug\System.Memory.dll
+C:\Users\1\Downloads\danceprojectprofi\SchoolDanceManageApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\1\Downloads\danceprojectprofi\SchoolDanceManageApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\1\Downloads\danceprojectprofi\SchoolDanceManageApp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\1\Downloads\danceprojectprofi\SchoolDanceManageApp\bin\Debug\System.Text.Json.dll
+C:\Users\1\Downloads\danceprojectprofi\SchoolDanceManageApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\1\Downloads\danceprojectprofi\SchoolDanceManageApp\bin\Debug\System.ValueTuple.dll
+C:\Users\1\Downloads\danceprojectprofi\SchoolDanceManageApp\bin\Debug\EntityFramework.xml
+C:\Users\1\Downloads\danceprojectprofi\SchoolDanceManageApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\1\Downloads\danceprojectprofi\SchoolDanceManageApp\bin\Debug\EntityFramework6.Npgsql.xml
+C:\Users\1\Downloads\danceprojectprofi\SchoolDanceManageApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\1\Downloads\danceprojectprofi\SchoolDanceManageApp\bin\Debug\Npgsql.pdb
+C:\Users\1\Downloads\danceprojectprofi\SchoolDanceManageApp\bin\Debug\Npgsql.xml
+C:\Users\1\Downloads\danceprojectprofi\SchoolDanceManageApp\bin\Debug\System.Buffers.xml
+C:\Users\1\Downloads\danceprojectprofi\SchoolDanceManageApp\bin\Debug\System.Memory.xml
+C:\Users\1\Downloads\danceprojectprofi\SchoolDanceManageApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\1\Downloads\danceprojectprofi\SchoolDanceManageApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\1\Downloads\danceprojectprofi\SchoolDanceManageApp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\1\Downloads\danceprojectprofi\SchoolDanceManageApp\bin\Debug\System.Text.Json.xml
+C:\Users\1\Downloads\danceprojectprofi\SchoolDanceManageApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\1\Downloads\danceprojectprofi\SchoolDanceManageApp\bin\Debug\System.ValueTuple.xml
+C:\Users\1\Downloads\danceprojectprofi\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.csprojAssemblyReference.cache
+C:\Users\1\Downloads\danceprojectprofi\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.Views.AdminPanelView.resources
+C:\Users\1\Downloads\danceprojectprofi\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.Views.AuthorizationView.resources
+C:\Users\1\Downloads\danceprojectprofi\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.Views.BookAbonementView.resources
+C:\Users\1\Downloads\danceprojectprofi\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.Views.ClientInformationView.resources
+C:\Users\1\Downloads\danceprojectprofi\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.Views.DirectionsView.resources
+C:\Users\1\Downloads\danceprojectprofi\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.Properties.Resources.resources
+C:\Users\1\Downloads\danceprojectprofi\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.Views.MainMenuView.resources
+C:\Users\1\Downloads\danceprojectprofi\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.Views.PrivateOfficeView.resources
+C:\Users\1\Downloads\danceprojectprofi\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.Views.SignUpForClassView.resources
+C:\Users\1\Downloads\danceprojectprofi\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.Views.TimetableView.resources
+C:\Users\1\Downloads\danceprojectprofi\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.csproj.GenerateResource.cache
+C:\Users\1\Downloads\danceprojectprofi\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.csproj.CoreCompileInputs.cache
+C:\Users\1\Downloads\danceprojectprofi\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.csproj.CopyComplete
+C:\Users\1\Downloads\danceprojectprofi\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.exe
+C:\Users\1\Downloads\danceprojectprofi\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.pdb
+C:\Users\1\Desktop\Курсовая Кулькова В.А\danceprojectprofi\SchoolDanceManageApp\bin\Debug\SchoolDanceManageApp.exe.config
+C:\Users\1\Desktop\Курсовая Кулькова В.А\danceprojectprofi\SchoolDanceManageApp\bin\Debug\SchoolDanceManageApp.exe
+C:\Users\1\Desktop\Курсовая Кулькова В.А\danceprojectprofi\SchoolDanceManageApp\bin\Debug\SchoolDanceManageApp.pdb
+C:\Users\1\Desktop\Курсовая Кулькова В.А\danceprojectprofi\SchoolDanceManageApp\bin\Debug\EntityFramework.dll
+C:\Users\1\Desktop\Курсовая Кулькова В.А\danceprojectprofi\SchoolDanceManageApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\1\Desktop\Курсовая Кулькова В.А\danceprojectprofi\SchoolDanceManageApp\bin\Debug\EntityFramework6.Npgsql.dll
+C:\Users\1\Desktop\Курсовая Кулькова В.А\danceprojectprofi\SchoolDanceManageApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\1\Desktop\Курсовая Кулькова В.А\danceprojectprofi\SchoolDanceManageApp\bin\Debug\Npgsql.dll
+C:\Users\1\Desktop\Курсовая Кулькова В.А\danceprojectprofi\SchoolDanceManageApp\bin\Debug\System.Buffers.dll
+C:\Users\1\Desktop\Курсовая Кулькова В.А\danceprojectprofi\SchoolDanceManageApp\bin\Debug\System.Memory.dll
+C:\Users\1\Desktop\Курсовая Кулькова В.А\danceprojectprofi\SchoolDanceManageApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\1\Desktop\Курсовая Кулькова В.А\danceprojectprofi\SchoolDanceManageApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\1\Desktop\Курсовая Кулькова В.А\danceprojectprofi\SchoolDanceManageApp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\1\Desktop\Курсовая Кулькова В.А\danceprojectprofi\SchoolDanceManageApp\bin\Debug\System.Text.Json.dll
+C:\Users\1\Desktop\Курсовая Кулькова В.А\danceprojectprofi\SchoolDanceManageApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\1\Desktop\Курсовая Кулькова В.А\danceprojectprofi\SchoolDanceManageApp\bin\Debug\System.ValueTuple.dll
+C:\Users\1\Desktop\Курсовая Кулькова В.А\danceprojectprofi\SchoolDanceManageApp\bin\Debug\EntityFramework.xml
+C:\Users\1\Desktop\Курсовая Кулькова В.А\danceprojectprofi\SchoolDanceManageApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\1\Desktop\Курсовая Кулькова В.А\danceprojectprofi\SchoolDanceManageApp\bin\Debug\EntityFramework6.Npgsql.xml
+C:\Users\1\Desktop\Курсовая Кулькова В.А\danceprojectprofi\SchoolDanceManageApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\1\Desktop\Курсовая Кулькова В.А\danceprojectprofi\SchoolDanceManageApp\bin\Debug\Npgsql.pdb
+C:\Users\1\Desktop\Курсовая Кулькова В.А\danceprojectprofi\SchoolDanceManageApp\bin\Debug\Npgsql.xml
+C:\Users\1\Desktop\Курсовая Кулькова В.А\danceprojectprofi\SchoolDanceManageApp\bin\Debug\System.Buffers.xml
+C:\Users\1\Desktop\Курсовая Кулькова В.А\danceprojectprofi\SchoolDanceManageApp\bin\Debug\System.Memory.xml
+C:\Users\1\Desktop\Курсовая Кулькова В.А\danceprojectprofi\SchoolDanceManageApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\1\Desktop\Курсовая Кулькова В.А\danceprojectprofi\SchoolDanceManageApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\1\Desktop\Курсовая Кулькова В.А\danceprojectprofi\SchoolDanceManageApp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\1\Desktop\Курсовая Кулькова В.А\danceprojectprofi\SchoolDanceManageApp\bin\Debug\System.Text.Json.xml
+C:\Users\1\Desktop\Курсовая Кулькова В.А\danceprojectprofi\SchoolDanceManageApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\1\Desktop\Курсовая Кулькова В.А\danceprojectprofi\SchoolDanceManageApp\bin\Debug\System.ValueTuple.xml
+C:\Users\1\Desktop\Курсовая Кулькова В.А\danceprojectprofi\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.csprojAssemblyReference.cache
+C:\Users\1\Desktop\Курсовая Кулькова В.А\danceprojectprofi\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.Views.AdminPanelView.resources
+C:\Users\1\Desktop\Курсовая Кулькова В.А\danceprojectprofi\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.Views.AuthorizationView.resources
+C:\Users\1\Desktop\Курсовая Кулькова В.А\danceprojectprofi\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.Views.BookAbonementView.resources
+C:\Users\1\Desktop\Курсовая Кулькова В.А\danceprojectprofi\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.Views.ClientInformationView.resources
+C:\Users\1\Desktop\Курсовая Кулькова В.А\danceprojectprofi\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.Views.DirectionsView.resources
+C:\Users\1\Desktop\Курсовая Кулькова В.А\danceprojectprofi\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.Properties.Resources.resources
+C:\Users\1\Desktop\Курсовая Кулькова В.А\danceprojectprofi\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.Views.MainMenuView.resources
+C:\Users\1\Desktop\Курсовая Кулькова В.А\danceprojectprofi\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.Views.PrivateOfficeView.resources
+C:\Users\1\Desktop\Курсовая Кулькова В.А\danceprojectprofi\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.Views.SignUpForClassView.resources
+C:\Users\1\Desktop\Курсовая Кулькова В.А\danceprojectprofi\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.Views.TimetableView.resources
+C:\Users\1\Desktop\Курсовая Кулькова В.А\danceprojectprofi\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.csproj.GenerateResource.cache
+C:\Users\1\Desktop\Курсовая Кулькова В.А\danceprojectprofi\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Курсовая Кулькова В.А\danceprojectprofi\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.csproj.CopyComplete
+C:\Users\1\Desktop\Курсовая Кулькова В.А\danceprojectprofi\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.exe
+C:\Users\1\Desktop\Курсовая Кулькова В.А\danceprojectprofi\SchoolDanceManageApp\obj\Debug\SchoolDanceManageApp.pdb
